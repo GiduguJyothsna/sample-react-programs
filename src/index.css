@@ -1,0 +1,9 @@
+.my-card{
+  font-family:"century";
+  width:200px;
+  margin:10px;
+  padding:10px;
+  box-shadow:0 0 10px rgb(182, 123, 4);
+  background-color: rgb(182, 123, 4);
+  color:white;
+}
